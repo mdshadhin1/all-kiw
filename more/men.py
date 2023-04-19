@@ -68,4 +68,3 @@ if zx in ['n','y']:
 	os.system("cd all-kiw")
 	os.system("python menu.py")
    
-   os.system("python menu.py")
